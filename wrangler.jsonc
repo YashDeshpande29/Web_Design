@@ -1,8 +1,8 @@
 {
     "name": "clouddash",
     "compatibility_date": "2025-04-19",
-    "assets": {
-      "directory": "./out"
+    "site": {
+      "bucket": ".vercel/output/static"
     }
   }
   
